@@ -1,0 +1,9 @@
+Original: 0xFACE
+Binary: 1111101011001110    Result: True
+Reversed: 0xECAF
+Binary: 1110110010101111    Result: False
+Rotated left: 0xB3BE
+Binary: 1011001110111110    Result: True
+Rotated right: 0x3BEB
+Binary: 0011101111101011    Result: True
+
